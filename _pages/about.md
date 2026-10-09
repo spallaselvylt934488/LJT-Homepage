@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at HKUST NLP Group, advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 Research Interests
 ======
@@ -37,16 +37,16 @@ Publications
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. (First author)
 
 3. [**On the Universal Truthfulness Hyperplane Inside LLMs**]({{ site.baseurl }}/publication/universal-truthfulness-hyperplane-inside-llms/)
-   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*, 2024. (First author)
+   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. (First author)
 
 4. [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**]({{ site.baseurl }}/publication/in-context-sharpness-as-alerts/)
-   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*, 2024.
+   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 
 5. [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**]({{ site.baseurl }}/publication/c-eval/)
-   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*, 2023.
+   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*.
 
 6. [**Composing Parameter-Efficient Modules with Arithmetic Operations**]({{ site.baseurl }}/publication/composing-parameter-efficient-modules-with-arithmetic-operations/)
-   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. *NeurIPS 2023*, 2023.
+   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. *NeurIPS 2023*.
 
 Skills
 ======
